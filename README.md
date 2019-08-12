@@ -8,7 +8,7 @@
 <a title="Follow me on Twitter" href="https://twitter.com/intent/user?screen_name=glutanimate"><img src="https://img.shields.io/twitter/follow/glutanimate.svg"></a>
 </p>
 
-This repo hosts the bug tracker for [BetterTags](https://www.patreon.com/glutanimate/posts?tag=BetterTags), an [Anki add-on](https://www.patreon.com/glutanimate) that is currently limited to [my Patreon supporters](https://www.patreon.com/glutanimate). BetterTags Anki's tagging system, introducing features like drag-and-drop rearrangement and an advanced search-and-replace interface with RegEx support.
+This repo hosts the bug tracker for [BetterTags](https://www.patreon.com/glutanimate/posts?tag=BetterTags), an [Anki add-on](https://apps.ankiweb.net) that is currently limited to [my Patreon supporters](https://www.patreon.com/glutanimate). BetterTags overhauls Anki's tagging system, introducing features like drag-and-drop rearrangement and an advanced search-and-replace interface with RegEx support.
 
 Please feel free to use this repo to report any bugs you run into, or suggest new features for the add-on.
 
