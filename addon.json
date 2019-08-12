@@ -1,0 +1,16 @@
+{
+    "display_name": "BetterTags",
+    "module_name": "bettertags",
+    "repo_name": "bettertags",
+    "ankiweb_id": "",
+    "author": "Glutanimate",
+    "contact": "https://glutanimate.com",
+    "homepage": "https://github.com/glutanimate/bettertags-public",
+    "copyright_start": 2016,
+    "tags": "",
+    "conflicts": [],
+    "targets": [
+        "anki20",
+        "anki21"
+    ]
+}
